@@ -23,8 +23,8 @@ Website Chatbot AI is a Streamlit-based application that allows you to chat with
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Jnan-py/Website-Chatbot-using-Gemini-API.git
-   cd Website-Chatbot-using-Gemini-API
+   git clone https://github.com/Fathima-78/Website_Chatbot_AI.git
+   cd Website_Chatbot_AI
    ```
 
 ````
